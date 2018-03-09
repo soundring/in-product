@@ -1,6 +1,6 @@
 'use strict';
 
-import Sample from './lib/Sample';
+
 import $ from 'jquery';
 import _ from 'lodash';
 
