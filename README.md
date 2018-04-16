@@ -30,7 +30,6 @@ shellから以下のコマンドを実行することで、各種ビルド・タ
 ## 依存ライブラリ
 
 `npm install`でインストールされるライブラリ（一部）です。
-全てを理解していなくても、開発は問題なく行えますが、挙動に問題がある場合・カスタマイズしたい場合などに参照してみてください。
 
 - [gulp.js](http://gulpjs.com/)
 - [Babel](https://babeljs.io/)
@@ -39,4 +38,3 @@ shellから以下のコマンドを実行することで、各種ビルド・タ
 - [browser-sync](https://www.browsersync.io/)
 - [jQuery](https://jquery.com/)
 - [Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
-# in-product
